@@ -1,0 +1,201 @@
+body {
+  font-family: Arial;
+  margin-top: -16px;
+  margin-left: 0px;
+  margin-right: 0px;
+  background-color: blue;
+  
+}
+.nav {
+  background-color: blue;
+  color: white;
+  list-style: none;
+  text-align: center;
+  padding: 20px 0 20px 0;
+  
+}
+.nav>li {
+  display: inline-block;
+  
+}
+.nav > li > a {
+  text-decoration: none;
+  color: white;
+  padding: 20px 20px;
+  font-size:20px;
+ 
+}
+.nav >li >a:hover {
+  background-color: black;
+  color: blue;
+}
+h1 {
+  color: blue;
+  background-color: white;
+  font-size: 40px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  margin-top: -16px;
+
+
+}
+.container {
+  background-color: white; 
+  width: 90%;
+  height: 1700px;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  margin-top: -27px;
+  justify-content: center;
+  
+}
+.nav1 {
+  background: white;
+  width: 200px;
+  height: 300px;
+  list-style-type: none;
+  border: 5px solid blue;
+  margin-left:2px;   
+
+
+}
+.blue {
+  background-color: #3944BB;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.sky {
+  background-color: #63C5DA;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.navy {
+  background-color: #0A1172;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.indigo {
+  background-color: #281E5D;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.cobalt {
+  background-color: #1338BE;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.teal {
+  background-color: #48AAAD;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.azure {
+  background-color: #1620A6;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.cerulean {
+  background-color: #0492C2;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.lapis {
+  background-color: #051094;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.stone {
+  background-color: #59788E;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.aegan {
+  background-color: #1F456E;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.berry {
+  background-color: #241571;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.admiral {
+  background-color: #051094;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.saphire{
+  background-color: #051094;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.arctic {
+  background-color: #82EEFD;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-left: -20px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+
